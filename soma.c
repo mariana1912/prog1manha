@@ -5,8 +5,8 @@ int main ()
     int num1, num2;
     int soma;
     
-    num = 9;
-    num = 10;
+    num1 = 9;
+    num2 = 10;
     
     soma = num1 + num2;
     
